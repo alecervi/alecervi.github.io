@@ -8,5 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-While her first MSc was in Linguistics, during her internship in Edinburgh Alessandra had the crazy idea to write a dissertation that connected Automatic Speech Recognition and Natural Language Understanding, because she found it interesting. Naturally this required a tremendous amount of learning, but she had so much fun, she went back to Edinburgh to do a MSc in Speech and Language Processing. Apparently she still hasn’t had enough of research, because after one year in the industry in dialogue development, she left her job to pursue a PhD in Computer Science; and she plans to have a whale of a time playing with dialogues and conversational agents.
+I am a PhD student in Computer Science at the [Department of Information Engineering and Computer Science (DISI), University of Trento](https://www.disi.unitn.it/ "DISI"). I work in the Signals and Interactive Systems ([Sislab](http://sisl.disi.unitn.it/ "SISL")) group under the supervision of [Giuseppe Riccardi](http://disi.unitn.it/~riccardi/ "Riccardi"). My dissertation is on coherence modelling for dialogue. 
 
+## Main interests
+
+  * Conversational Agents 
+  * Discourse
+  * Spoken Language Understanding
+  * Natural Language Generation
+  
+## Other interests
+  * Speech synthesis
+  * Prosody
+  * Speech recognition
