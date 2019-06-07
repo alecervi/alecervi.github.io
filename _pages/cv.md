@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Modern Letters (Major: Linguistics), University of Pavia, 2011
-* M.S. in Theoretical and Applied Linguistics, University of Pavia, 2014
-* Diploma IUSS, Institute of Advanced Studies (IUSS) Pavia, 2014
-* M.S. in Speech and Language Processing, University of Edinburgh, 2015
 * Ph.D in Computer Science, University of Trento, March 2020 (expected)
+* M.S. in Speech and Language Processing, University of Edinburgh, 2015
+* Diploma IUSS, Institute of Advanced Studies (IUSS) Pavia, 2014
+* M.S. in Theoretical and Applied Linguistics, University of Pavia, 2014
+* B.S. in Modern Letters (Major: Linguistics), University of Pavia, 2011
 
 Work experience
 ======
