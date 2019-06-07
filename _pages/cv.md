@@ -34,7 +34,7 @@ Work experience
   
 Projects
 ======
-* Dec 2018, ongoing: CO-ADAPT
+* Dec 2018, ongoing: [CO-ADAPT](https://cordis.europa.eu/project/rcn/220368/factsheet/en "COADAPT")
   * Working on the design and implementation of a conversational agent for adaptive ageing for the European H2020 project CO-ADAPT
 
 * Nov 2016, Aug 2017: Alexa Prize
