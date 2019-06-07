@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Modern Letters (Major: Linguistics), University of Pavia, 2011
+* M.S. in Theoretical and Applied Linguistics, University of Pavia, 2014
+* Diploma IUSS, Institute of Advanced Studies (IUSS) Pavia, 2014
+* M.S. in Speech and Language Processing, University of Edinburgh, 2015
+* Ph.D in Computer Science, University of Trento, March 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Applied Scientist Intern for Amazon Alexa Conversational AI group
+  * Lab126, Sunnyvale (CA, United States)
+  * Project: Natural Language Generation at Scale
+  * Supervisors: Chandra Khatri, Rahul Goel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2015, Aug 2016: UI designer (Dialogue Developer)
+  * Nuance Communications, Aachen (Germany)
+  * Project: contribute to design and develop MBUX, the in-car dialogue system released in 2018 for Mercedes A-Class cars
   
-Skills
+ * Nov 2013, Feb 2014: Research intern 
+  * School of Informatics, University of Edinburgh, Edinburgh (United Kingdom)
+  * Project: Worked on the PARC project and on a project to automatically extract quotations from speech
+  
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dec 2018, ongoing: CO-ADAPT
+  * Wrking on the design and implementation of a conversational agent for adaptive ageing for the European H2020 project CO-ADAPT
+
+* Nov 2016, Aug 2017: Alexa Prize
+  * Team leader of the Roving Mind team, one of the 15 university reams selected to compete in the first edition of the Amazon Alexa Prize, a competition to adavnce open domain conversational AI 
+  
+  
+# Skills
+# ======
+# * Skill 1
+# * Skill 2
+#   * Sub-skill 2.1
+#   * Sub-skill 2.2
+#   * Sub-skill 2.3
+# * Skill 3
 
 Publications
 ======
