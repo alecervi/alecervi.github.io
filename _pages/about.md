@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at the [Department of Information Engineering and Computer Science (DISI), University of Trento](https://www.disi.unitn.it/ "DISI"). I work in the Signals and Interactive Systems ([Sislab](http://sisl.disi.unitn.it/ "SISL")) group under the supervision of [Giuseppe Riccardi](http://disi.unitn.it/~riccardi/ "Riccardi"). My dissertation is on coherence modelling for dialogue. 
+I am a PhD student in Computer Science at the [Department of Information Engineering and Computer Science (DISI), University of Trento](https://www.disi.unitn.it/ "DISI"). I work in the Signals and Interactive Systems ([Sislab](http://sisl.disi.unitn.it/ "SISL")) group under the supervision of [Giuseppe Riccardi](http://disi.unitn.it/~riccardi/ "Riccardi"). My dissertation is on coherence modelling for dialogue. For my PhD dissertation I'm working on modelling coherence in open-domain dialogue, exploring the relation of entities and Dialogue Acts information.
 
 ## Main interests
 
