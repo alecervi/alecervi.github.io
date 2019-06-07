@@ -26,7 +26,7 @@ Work experience
 
 * Sept 2015, Aug 2016: UI designer (Dialogue Developer)
   * Nuance Communications, Aachen (Germany)
-  * Project: contribute to design and develop MBUX, the in-car dialogue system released in 2018 for Mercedes A-Class cars
+  * Project: contribute to design and develop [MBUX](https://www.mercedes-benz.com/en/mercedes-benz/innovation/mbux-mercedes-benz-user-experience-revolution-in-the-cockpit/ "MBUX"), the in-car dialogue system released in 2018 for Mercedes A-Class cars
   
 * Nov 2013, Feb 2014: Research intern 
   * School of Informatics, University of Edinburgh, Edinburgh (United Kingdom)
