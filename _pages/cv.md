@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Computer Science, [University of Trento](https://www.disi.unitn.it/, "DISI UNITN"), March 2020 (expected)
