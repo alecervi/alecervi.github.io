@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandra Cervone / Personal website"
+title                    : "Alessandra Cervone"
 title_separator          : "-"
 name                     : &name "Alessandra Cervone"
 description              : &description "PhD student in CS"
