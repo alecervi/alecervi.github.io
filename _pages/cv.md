@@ -39,6 +39,6 @@ Projects
   * Working on the design and implementation of a conversational agent for adaptive ageing for the European H2020 project CO-ADAPT
 
 * Nov 2016, Aug 2017: Alexa Prize
-  * Team leader of the Roving Mind team, one of the 15 university reams selected to compete in the first edition of the Amazon [Alexa Prize](https://developer.amazon.com/alexaprize "Alexa Prize"), a competition to adavnce open domain conversational AI 
+  * Team leader of the Roving Mind team, one of the 15 university teams selected to compete in the first edition of the Amazon [Alexa Prize](https://developer.amazon.com/alexaprize "Alexa Prize"), a competition to advance open domain conversational AI 
   
 
