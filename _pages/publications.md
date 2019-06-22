@@ -10,7 +10,7 @@ author_profile: true
 
 {% include base_path %}
 
-#### Conference
+## Conference
 
 Marinelli F., Cervone, A., Tortoreto G., Stepanov, E. A., & Riccardi, G. (2018). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019.
 
@@ -37,13 +37,13 @@ Cervone, A., Lai, C., Pareti, S., & Bell, P. (2015). "Towards automatic detectio
 Cervone, A., Pareti, S., Bell, P., & Prodanof, I. (2014). "Detecting attribution relations in speech: a corpus study". In <i>Proceedings of the First Italian Conference on Computational Linguistics CLiC-it<i> 2014.
   
 
-#### Dissertations
+## Dissertations
   
 Cervone, A. (2015). "Discourse parsing for statistical parametric TTS" (Master’s thesis, University of Edinburgh, Edinburgh).
 
 Cervone, A. (2014). "Attribution relations extraction in speech: A lexical-prosodic approach" (Master’s thesis, Universita degli Studi di Pavia, Pavia).
 
-#### Other
+## Other
 
 Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. (2019). "Natural Language Generation at Scale: A Case Study for Open Domain Question Answering". arXiv preprint arXiv:1903.08097.
 
