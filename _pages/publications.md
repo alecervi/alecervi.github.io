@@ -12,13 +12,13 @@ author_profile: true
 
 ## Conference
 
-Marinelli F., Cervone, A., Tortoreto G., Stepanov, E. A., & Riccardi, G. (2018). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019.
+Marinelli F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019.
 
-Tammewar A., Cervone, A., Messner, E. M., & Riccardi, G. (2018). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019.
+Tammewar A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019.
 
 Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019.
 
-Tortoreto, G., Stepanov, E. A., Cervone, A., Di Fabbrizio, G., & Riccardi, G. (2019). "“ Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019.
+Tortoreto, G., Stepanov, E. A., Cervone, A., Dubiel, M., & Riccardi, G. (2019). "“ Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019.
   
 Cervone, A., Gambi, E., Tortoreto, G., Stepanov, E. A., & Riccardi, G. (2018). "Automatically Predicting User Ratings for Conversational Systems". In <i>Proceedings of the Fifth Italian Conference on Computational Linguistics CLiC-it</i> 2018.
   
