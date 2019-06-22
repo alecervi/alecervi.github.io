@@ -26,13 +26,13 @@ Mezza, S., Cervone, A., Stepanov, E., Tortoreto, G., & Riccardi, G. (2018). "ISO
 
 Cervone, A., Stepanov, E., & Riccardi, G. (2018). "Coherence Models for Dialogue". In <i>Interspeech</i> 2018, 1011-1015.
 
-Cervone, A., Stepanov, E. A., Celli, F., & Riccardi, G. (2017). "Irony Detection: from the Twittersphere to the News Space". In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics CLiC-it<i> 2017.
+Cervone, A., Stepanov, E. A., Celli, F., & Riccardi, G. (2017). "Irony Detection: from the Twittersphere to the News Space". In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics CLiC-it</i> 2017.
 
 Cervone, A., Tortoreto, G., Mezza, S., Gambi, E., & Riccardi, G. (2017). "Roving mind: a balancing act between open–domain and engaging dialogue systems". <i>Proceedings of the Alexa Prize</i>.
 
 Cervone, A., Lai, C., Pareti, S., & Bell, P. (2015). "Towards automatic detection of reported speech in dialogue using prosodic cues". In <i>Interspeech</i> 2015.
 
-Cervone, A., Pareti, S., Bell, P., & Prodanof, I. (2014). "Detecting attribution relations in speech: a corpus study". In <i>Proceedings of the First Italian Conference on Computational Linguistics CLiC-it<i> 2014.
+Cervone, A., Pareti, S., Bell, P., & Prodanof, I. (2014). "Detecting attribution relations in speech: a corpus study". In <i>Proceedings of the First Italian Conference on Computational Linguistics CLiC-it</i> 2014.
   
 
 ## Dissertations
