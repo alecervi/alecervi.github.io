@@ -14,3 +14,5 @@ author_profile: true
 
 [6] D. Bonadiman, A. Uva, A. Moschitti, <i>"Effective shared representations with multitask learning for community question answering"</i>, in Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017). Valencia, Spain, April 2017.  
 
+[1] Cervone, A., Stepanov, E., & Riccardi, G. (2018). "Coherence Models for Dialogue". <i>Interspeech<i> 2018, 1011-1015.
+
