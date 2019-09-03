@@ -12,6 +12,10 @@ author_profile: true
 
 ## Conference
 
+Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. (2019). "Natural Language Generation at Scale: A Case Study for Open Domain Question Answering". In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. 2019.
+
+Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh, A., Gabriel R., & Hakkani-Tur, D. (2019). "Towards Coherent and Engaging Spoken Dialog Response Generation Using Automatic Conversation Evaluators". In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. 2019.
+
 Marinelli F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019.
 
 Tammewar A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019.
@@ -41,10 +45,7 @@ Cervone, A. (2015). "Discourse parsing for statistical parametric TTS" (Masterâ€
 
 Cervone, A. (2014). "Attribution relations extraction in speech: A lexical-prosodic approach" (Masterâ€™s thesis, Universita degli Studi di Pavia, Pavia).
 
-## Other
 
-Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. (2019). "Natural Language Generation at Scale: A Case Study for Open Domain Question Answering". arXiv preprint arXiv:1903.08097.
 
-Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh, A., Gabriel R., & Hakkani-Tur, D. (2019). "Towards Coherent and Engaging Spoken Dialog Response Generation Using Automatic Conversation Evaluators". arXiv preprint arXiv:1904.13015.
 
 
