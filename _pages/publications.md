@@ -22,7 +22,7 @@ Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & R
 
 Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2489.pdf)
 
-Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/1945.pdf)
+Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/1945.pdf) [Poster](https://alecervi.github.io/files/Poster_PowerPoint_Version_2019-09-10.pdf)
 
 Tortoreto, G., Stepanov, E. A., Cervone, A., Dubiel, M., & Riccardi, G. (2019). "Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019. [Paper](http://alecervi.github.io/files/W19-3211.pdf)
   
