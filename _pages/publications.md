@@ -18,11 +18,11 @@ Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh,
 
 Dubiel, M., Cervone, A., & Riccardi, G. (2019). "Inquisitive Mind: A conversational news companion". In <i>1st International Conference on Conversational User Interfaces</i> 2019.
 
-Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019.
+Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/2537.pdf)
 
-Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019.
+Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/2489.pdf)
 
-Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019.
+Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/1945.pdf)
 
 Tortoreto, G., Stepanov, E. A., Cervone, A., Dubiel, M., & Riccardi, G. (2019). "Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019.
   
