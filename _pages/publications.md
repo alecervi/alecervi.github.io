@@ -16,7 +16,7 @@ Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D
 
 Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh, A., Gabriel R., & Hakkani-Tur, D. (2019). "Towards Coherent and Engaging Spoken Dialog Response Generation Using Automatic Conversation Evaluators". In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. 2019.
 
-Dubiel, M., Cervone, A., & Riccardi, G. (2019). "Inquisitive Mind: A conversational news companion". In <i>1st International Conference on Conversational User Interfaces</i> 2019.
+Dubiel, M., Cervone, A., & Riccardi, G. (2019). "Inquisitive Mind: A conversational news companion". In <i>1st International Conference on Conversational User Interfaces</i> 2019. [Paper](http://alecervi.github.io/files/Dubiel_etal_CUI_2019_Inquisitive_mind_a_conversational_news_companion.pdf)
 
 Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2537.pdf)
 
@@ -36,7 +36,7 @@ Cervone, A., Stepanov, E. A., Celli, F., & Riccardi, G. (2017). "Irony Detection
 
 Cervone, A., Tortoreto, G., Mezza, S., Gambi, E., & Riccardi, G. (2017). "Roving mind: a balancing act between open–domain and engaging dialogue systems". <i>Proceedings of the Alexa Prize</i>. [Paper](http://alecervi.github.io/files/RovingMind (2).pdf)
 
-Cervone, A., Lai, C., Pareti, S., & Bell, P. (2015). "Towards automatic detection of reported speech in dialogue using prosodic cues". In <i>Interspeech</i> 2015.
+Cervone, A., Lai, C., Pareti, S., & Bell, P. (2015). "Towards automatic detection of reported speech in dialogue using prosodic cues". In <i>Interspeech</i> 2015. [Paper](http://alecervi.github.io/files/cervone2015quotes.pdf)
 
 Cervone, A., Pareti, S., Bell, P., & Prodanof, I. (2014). "Detecting attribution relations in speech: a corpus study". In <i>Proceedings of the First Italian Conference on Computational Linguistics CLiC-it</i> 2014.
   
