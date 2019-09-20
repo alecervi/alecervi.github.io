@@ -18,9 +18,9 @@ Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh,
 
 Dubiel, M., Cervone, A., & Riccardi, G. (2019). "Inquisitive Mind: A conversational news companion". In <i>1st International Conference on Conversational User Interfaces</i> 2019. [Paper](http://alecervi.github.io/files/Dubiel_etal_CUI_2019_Inquisitive_mind_a_conversational_news_companion.pdf)
 
-Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2537.pdf)
+Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2537.pdf) [Poster](http://alecervi.github.io/files/IS19_AA_Poster_final_.pdf)
 
-Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2489.pdf)
+Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2489.pdf) [Poster](http://alecervi.github.io/files/ppt3.pdf)
 
 Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/1945.pdf) [Poster](https://alecervi.github.io/files/Poster_PowerPoint_Version_2019-09-10.pdf)
 
