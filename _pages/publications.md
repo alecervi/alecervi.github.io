@@ -18,23 +18,23 @@ Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh,
 
 Dubiel, M., Cervone, A., & Riccardi, G. (2019). "Inquisitive Mind: A conversational news companion". In <i>1st International Conference on Conversational User Interfaces</i> 2019.
 
-Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/2537.pdf)
+Marinelli, F., Cervone, A., Tortoreto G., Stepanov, E. A., Di Fabbrizio, G., & Riccardi, G. (2019). "Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2537.pdf)
 
-Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/2489.pdf)
+Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. (2019). "Modeling user context for valence prediction from narratives". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/2489.pdf)
 
-Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://academicpages.github.io/files/1945.pdf)
+Aubin, A., Cervone, A., Watts, O., & King, S. (2019). "Improving speech synthesis with discourse relations". In <i>Interspeech</i> 2019. [Paper](http://alecervi.github.io/files/1945.pdf)
 
-Tortoreto, G., Stepanov, E. A., Cervone, A., Dubiel, M., & Riccardi, G. (2019). "Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019.
+Tortoreto, G., Stepanov, E. A., Cervone, A., Dubiel, M., & Riccardi, G. (2019). "Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?". In <i>Association for Computational Linguistics Conference, Workshop on Social Media Mining for Health Applications</i>, Florence, 2019. [Paper](http://alecervi.github.io/files/W19-3211.pdf)
   
-Cervone, A., Gambi, E., Tortoreto, G., Stepanov, E. A., & Riccardi, G. (2018). "Automatically Predicting User Ratings for Conversational Systems". In <i>Proceedings of the Fifth Italian Conference on Computational Linguistics CLiC-it</i> 2018.
+Cervone, A., Gambi, E., Tortoreto, G., Stepanov, E. A., & Riccardi, G. (2018). "Automatically Predicting User Ratings for Conversational Systems". In <i>Proceedings of the Fifth Italian Conference on Computational Linguistics CLiC-it</i> 2018. [Paper](http://alecervi.github.io/files/paper32.pdf)
   
-Mezza, S., Cervone, A., Stepanov, E., Tortoreto, G., & Riccardi, G. (2018). "ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents". <i>In Proceedings of the 27th International Conference on Computational Linguistics</i> (pp. 3539-3551).  
+Mezza, S., Cervone, A., Stepanov, E., Tortoreto, G., & Riccardi, G. (2018). "ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents". <i>In Proceedings of the 27th International Conference on Computational Linguistics</i> (pp. 3539-3551). [Paper](http://alecervi.github.io/files/C18-1300.pdf)
 
-Cervone, A., Stepanov, E., & Riccardi, G. (2018). "Coherence Models for Dialogue". In <i>Interspeech</i> 2018, 1011-1015.
+Cervone, A., Stepanov, E., & Riccardi, G. (2018). "Coherence Models for Dialogue". In <i>Interspeech</i> 2018, 1011-1015. [Paper](http://alecervi.github.io/files/2446.pdf)
 
 Cervone, A., Stepanov, E. A., Celli, F., & Riccardi, G. (2017). "Irony Detection: from the Twittersphere to the News Space". In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics CLiC-it</i> 2017.
 
-Cervone, A., Tortoreto, G., Mezza, S., Gambi, E., & Riccardi, G. (2017). "Roving mind: a balancing act between open–domain and engaging dialogue systems". <i>Proceedings of the Alexa Prize</i>.
+Cervone, A., Tortoreto, G., Mezza, S., Gambi, E., & Riccardi, G. (2017). "Roving mind: a balancing act between open–domain and engaging dialogue systems". <i>Proceedings of the Alexa Prize</i>. [Paper](http://alecervi.github.io/files/RovingMind (2).pdf)
 
 Cervone, A., Lai, C., Pareti, S., & Bell, P. (2015). "Towards automatic detection of reported speech in dialogue using prosodic cues". In <i>Interspeech</i> 2015.
 
