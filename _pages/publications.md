@@ -15,13 +15,13 @@ author_profile: true
 <strong>Natural Language Generation at Scale: A Case Study for Open Domain Question Answering </strong> <br />
 Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. <br />
 In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. <br />
-Tokyo, Japan, 2019
+Tokyo, Japan, 2019 <br />
 [Paper](http://alecervi.github.io/files/NLG_at_scale_final.pdf)
 
 <strong>Towards Coherent and Engaging Spoken Dialog Response Generation Using Automatic Conversation Evaluators </strong> <br />
 Yi, S., Goel, R., Khatri, C., Cervone, A., Chung, T., Hedayatnia, B., Venkatesh, A., Gabriel R., & Hakkani-Tur, D. <br /> 
 In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. <br />
-Tokyo, Japan, 2019
+Tokyo, Japan, 2019 <br />
 [Paper](http://alecervi.github.io/files/Towards_Coherent_and_Engaging_Spoken_Dialog_Response_Generation.pdf)
 
 <strong>Active Annotation: bootstrapping annotation lexicon and guidelines for supervised NLU learning </strong> <br />
