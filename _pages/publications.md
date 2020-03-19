@@ -12,6 +12,11 @@ author_profile: true
 
 ## Conference
 
+<strong>Annotation of Emotion Carriers in Personal Narratives</strong> <br />
+Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. <br />
+In <i>Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)</i> 2020. <br />
+Marseille, France, 2020 <br />
+
 <strong>Natural Language Generation at Scale: A Case Study for Open Domain Question Answering </strong> <br />
 Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. <br />
 In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. <br />
