@@ -12,11 +12,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [University of Trento](https://www.disi.unitn.it/, "DISI UNITN"), March 2020 (expected)
-* M.Sc. in Speech and Language Processing, [University of Edinburgh](https://www.ed.ac.uk/ "University of Edinburgh"), 2015
-* Diploma [IUSS](http://www.iusspavia.it/university-school-for-advanced-studies "IUSS"), Pavia , 2014
-* M.Sc. in Theoretical and Applied Linguistics, [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), 2014
-* B.Sc. in Modern Letters (Major: Linguistics), [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), 2011
+* Ph.D in Computer Science, [University of Trento](https://www.disi.unitn.it/, "DISI UNITN"), November 2016 - October 2020 (expected)
+* M.Sc. in Speech and Language Processing, [University of Edinburgh](https://www.ed.ac.uk/ "University of Edinburgh"), September 2014 - November 2015
+* Diploma [IUSS](http://www.iusspavia.it/university-school-for-advanced-studies "IUSS"), September 2008 - October 2014
+* M.Sc. in Theoretical and Applied Linguistics, [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), December 2011 - April 2014
+* B.Sc. in Modern Letters (Major: Linguistics), [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), September 2008 - December 2011
 
 Work experience
 ======
