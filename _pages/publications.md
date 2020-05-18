@@ -16,6 +16,7 @@ author_profile: true
 Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. <br />
 In <i>Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)</i> 2020. <br />
 Marseille, France, 2020 <br />
+[Paper](http://alecervi.github.io/files/LRECEmotionCarrierAnnotation.pdf)
 
 <strong>Natural Language Generation at Scale: A Case Study for Open Domain Question Answering </strong> <br />
 Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. <br />
@@ -69,13 +70,13 @@ Turin, Italy, 2019 <br />
 Cervone, A., Stepanov, E., & Riccardi, G. <br />
 In <i>Interspeech</i> 2018, 1011-1015. <br />
 Hyderabad, India, 2018 <br />
-[Paper](http://alecervi.github.io/files/2446.pdf)
+[Paper](http://alecervi.github.io/files/2446.pdf) [Code](https://github.com/alecervi/Coherence-models-for-dialogue)
   
 <strong>ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents </strong> <br />
 Mezza, S., Cervone, A., Stepanov, E., Tortoreto, G., & Riccardi, G. <br />
 In <i>Proceedings of the 27th International Conference on Computational Linguistics</i> (pp. 3539-3551). <br />
 Santa Fe, New Mexico, US, 2018 <br />
-[Paper](http://alecervi.github.io/files/C18-1300.pdf)
+[Paper](http://alecervi.github.io/files/C18-1300.pdf) [Code](https://github.com/ColingPaper2018/DialogueAct-Tagger)
 
 <strong>Roving mind: a balancing act between open–domain and engaging dialogue systems </strong> <br />
 Cervone, A., Tortoreto, G., Mezza, S., Gambi, E., & Riccardi, G. <br />
