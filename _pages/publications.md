@@ -12,6 +12,12 @@ author_profile: true
 
 ## Conference
 
+<strong>Is this Dialogue Coherent? Learning from Dialogue Acts and Entities</strong> <br />
+Cervone, A., & Riccardi, G. <br />
+In <i>Proceedings of the 21st Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2020)</i> 2020. <br />
+Boise, Idaho, US 2020 <br />
+[Paper](http://alecervi.github.io/files/SigDial2020EntitiesDAs.pdf)[Data](https://github.com/alecervi/switchboard-coherence-corpus)
+
 <strong>Annotation of Emotion Carriers in Personal Narratives</strong> <br />
 Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. <br />
 In <i>Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)</i> 2020. <br />
