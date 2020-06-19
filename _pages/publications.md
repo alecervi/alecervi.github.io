@@ -16,7 +16,7 @@ author_profile: true
 Cervone, A., & Riccardi, G. <br />
 In <i>Proceedings of the 21st Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2020)</i>. <br />
 Boise, Idaho, US 2020 <br />
-[Paper](http://alecervi.github.io/files/SigDial2020EntitiesDAs.pdf) [Data](https://github.com/alecervi/switchboard-coherence-corpus)
+[Paper](http://alecervi.github.io/files/SigDial2020Final.pdf) [Data](https://github.com/alecervi/switchboard-coherence-corpus)
 
 <strong>Annotation of Emotion Carriers in Personal Narratives</strong> <br />
 Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. <br />
