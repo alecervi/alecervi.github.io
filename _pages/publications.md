@@ -22,7 +22,7 @@ Boise, Idaho, US 2020 <br />
 Tammewar, A., Cervone, A., Messner, E. M., & Riccardi, G. <br />
 In <i>Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)</i>. <br />
 Marseille, France, 2020 <br />
-[Paper](http://alecervi.github.io/files/LRECEmotionCarrierAnnotation.pdf)
+[Paper](http://alecervi.github.io/files/LREC2020.pdf)
 
 <strong>Natural Language Generation at Scale: A Case Study for Open Domain Question Answering </strong> <br />
 Cervone, A., Khatri, C., Goel, R., Hedayatnia, B., Venkatesh, A., Hakkani-Tur, D., & Gabriel, R. <br />
