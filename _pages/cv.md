@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [University of Trento](https://www.disi.unitn.it/, "DISI UNITN"), November 2016 - October 2020 (expected)
+* Ph.D in Computer Science, [University of Trento](https://www.disi.unitn.it/, "DISI UNITN"), November 2016 - October 2020
 * M.Sc. in Speech and Language Processing, [University of Edinburgh](https://www.ed.ac.uk/ "University of Edinburgh"), September 2014 - November 2015
 * Diploma [IUSS](http://www.iusspavia.it/university-school-for-advanced-studies "IUSS"), September 2008 - October 2014
 * M.Sc. in Theoretical and Applied Linguistics, [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), December 2011 - April 2014
@@ -20,6 +20,8 @@ Education
 
 Work experience
 ======
+* June 2020: Applied Scientist at Alexa AI
+
 * Summer 2018: Applied Scientist Intern for Amazon Alexa Conversational AI group
   * [Lab126](https://www.amazon.jobs/en-gb/teams/lab126 "Lab126"), Sunnyvale (CA, United States)
   * Project: Natural Language Generation at Scale
